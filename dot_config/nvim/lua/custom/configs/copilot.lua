@@ -5,10 +5,10 @@ local opts = {
   suggestion = {
     auto_trigger = true,
     keymap = {
-      accept = "<C-CR>",
-      next = "<C-]>",
-      prev = "<C-[>",
-      dismiss = "<C-d>",
+      accept = "<M-CR>",
+      next = "<M-]>",
+      prev = "<M-[>",
+      dismiss = "<M-d>",
     },
   },
 }
